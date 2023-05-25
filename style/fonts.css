@@ -1,0 +1,30 @@
+@font-face {
+    font-family: ML;
+    src: url(../fonts/MuseoSansCyrl-300.ttf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: MM;
+    src: url(../fonts/MuseoSansCyrl-500.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: MB;
+    src: url(../fonts/MuseoSansCyrl-700.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: MBB;
+    src: url(../fonts/MuseoSansCyrl-900.ttf);
+    font-weight: 900;
+}
+@font-face {
+    font-family: RB;
+    src: url(../fonts/Roboto-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: RR;
+    src: url(../fonts/Roboto-Regular.ttf);
+    font-weight: 400;
+}
