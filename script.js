@@ -3,6 +3,7 @@ const burger = document.querySelector('.burger'),
 
 
 burger.addEventListener('click', function () {
+     document.querySelector('body').classList.toggle('scroll')
     this.classList.toggle('active')
     info.classList.toggle('open')
 })
