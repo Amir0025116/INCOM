@@ -91,7 +91,9 @@
         gap: 20px;
 
     }
-
+ .question-input button{
+        width: 100%;
+    }
     .question-input {
         justify-content: center;
     }
