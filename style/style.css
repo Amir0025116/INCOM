@@ -19,9 +19,9 @@
 }
 
 .header {
-    background: url(../img/header-bg.svg);
-    background-repeat: no-repeat;
+    background: url(../img/header-bg.svg) no-repeat; 
     background-size: cover;
+    background-position: center;
     height: 100%;
     margin: auto;
     padding-top: 53px;
@@ -299,6 +299,8 @@
     padding: 80px 0 108px;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
     z-index: -999;
 }
 
@@ -544,3 +546,6 @@
     font-family:ML;
 }
  
+.scroll {
+    overflow: hidden;
+}
